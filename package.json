@@ -1,0 +1,14 @@
+{
+  "name": "hopium_bot",
+  "version": "1.0.0",
+  "description": "Meme in chat on interval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damon Burda",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
